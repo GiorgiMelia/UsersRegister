@@ -15,7 +15,8 @@ namespace Company
 
     internal class Function
     {
-        public static string connectionString = "Host=localhost;Username=postgres;Password=aaa;Database=Customers ";
+        //Add connection string
+        public static string connectionString = "";
 
         public static void Start()
         {
